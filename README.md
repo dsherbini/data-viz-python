@@ -1,2 +1,2 @@
 # data-viz-python
-Data visualization in Python with matplotlib and seaborn packages.
+A series of visualizations of auto data using matplotlib and seaborn packages in Python. Created as part of graduate level coursework in Python programming.
